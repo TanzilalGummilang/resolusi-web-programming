@@ -1,0 +1,10 @@
+urutan rencana:
+- basic html & css
+- basic php
+- basic sql
+- oophp
+- git/github
+- mvc
+- codeigniter
+- laravel
+- javascript
