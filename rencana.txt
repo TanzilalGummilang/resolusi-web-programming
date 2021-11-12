@@ -4,7 +4,8 @@ urutan rencana:
 - basic sql
 - oophp
 - git/github
-- mvc
+- php mvc
 - codeigniter
 - laravel
 - javascript
+- framework css
