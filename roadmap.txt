@@ -1,0 +1,9 @@
+(urutan roadmap):
+
+Internet
+- how does the internet work?
+- what is HTTP?
+- browsers and how they work?
+- DNS and how it works?
+- what it Domain Name?
+- what is hosting?
