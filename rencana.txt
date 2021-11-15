@@ -11,4 +11,5 @@ urutan rencana:
 - javascript
 - framework css
   ^ bootstrap
+  ^ tailwind
 - ikutin roadmap
