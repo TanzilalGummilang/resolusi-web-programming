@@ -5,7 +5,10 @@ urutan rencana:
 - oophp
 - git/github
 - php mvc
-- codeigniter
-- laravel
+- framework php
+  ^ codeigniter
+  ^ laravel
 - javascript
 - framework css
+  ^ tailwind
+- ikutin roadmap
