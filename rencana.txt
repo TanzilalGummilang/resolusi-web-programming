@@ -10,5 +10,6 @@ urutan rencana:
   ^ laravel
 - javascript
 - framework css
+  ^ bootstrap
   ^ tailwind
 - ikutin roadmap
